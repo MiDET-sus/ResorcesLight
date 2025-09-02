@@ -22,7 +22,7 @@
 ### Способ 1: Прямая установка
 `bash
 # Клонируйте репозиторий
-git clone https://github.com/ваш-username/resource-light.git
+git clone https://github.com/MiDET-sus/ResorcesLight
 cd ResourceLight
 
 # Установите зависимости
