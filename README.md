@@ -6,8 +6,6 @@
 
 Легковесный и мощный системный монитор для Linux с интуитивным TUI-интерфейсом, написанный на Python.
 
-![ResourceLight Screenshot](screenshot.png) <!-- Добавьте скриншот после -->
-
 ## ✨ Особенности
 
 - 📊 Мониторинг в реальном времени: CPU, память, диски, сеть
@@ -28,7 +26,7 @@ git clone https://github.com/ваш-username/resource-light.git
 cd resource-light
 
 # Установите зависимости
-pip3 install -r requirements.txt
+pip3 install psutil
 
 # Запустите
-python3 src/resource_light.py
+python3 resource_light.py
