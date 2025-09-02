@@ -1,0 +1,15 @@
+{
+  "refresh_interval": 0.5,
+  "history_length": 120,
+  "thresholds": {
+    "cpu_warning": 60,
+    "cpu_critical": 85,
+    "mem_warning": 70,
+    "mem_critical": 85,
+    "disk_warning": 75,
+    "disk_critical": 90
+  },
+  "disks_to_monitor": ["/", "/home"],
+  "network_interfaces": ["eth0", "wlan0", "docker0"],
+  "enable_logging": false
+}
