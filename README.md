@@ -23,7 +23,7 @@
 `bash
 # Клонируйте репозиторий
 git clone https://github.com/ваш-username/resource-light.git
-cd resource-light
+cd ResourceLight
 
 # Установите зависимости
 pip3 install psutil
