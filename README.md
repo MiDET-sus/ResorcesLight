@@ -29,4 +29,4 @@ cd ResourceLight
 pip3 install psutil
 
 # Запустите
-python3 resource_light.py
+python3 ResourceLight.py
