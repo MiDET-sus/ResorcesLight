@@ -23,6 +23,7 @@
 `bash
 # Клонируйте репозиторий
 git clone https://github.com/MiDET-sus/ResorcesLight
+
 cd ResourceLight
 
 # Установите зависимости
